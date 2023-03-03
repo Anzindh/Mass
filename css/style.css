@@ -322,20 +322,23 @@ button {
 .banner_taital_main {
     width: 100%;
     float: left;
+    background-color: blue;
+    padding-left: 30px;
+    padding-top: 30px;
 }
 
 .banner_taital {
     width: 100%;
     float: left;
     font-size: 50px;
-    color: #f7f7fd;
+    color: yellow;
     font-weight: bold;
 }
 .banner_text {
     width: 100%;
     float: left;
     font-size: 16px;
-    color: #f7f7fd;
+    color: white;
     margin: 0px;
 }
 
@@ -494,7 +497,7 @@ button {
 }
 
 .image_main:hover .image_8 {
-    opacity: ;
+    opacity: 5;
 }
 
 .image_main:hover .text_main {
